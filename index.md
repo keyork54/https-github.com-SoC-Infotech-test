@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Try getting to another file
 
+* [README](https://keyork54.github.io/https-github.com-SoC-Infotech-test/README.html)
 * ~ ~ ~
 * [Second](https://keyork54.github.io/https-github.com-SoC-Infotech-test/second.html)
 * [Third](https://keyork54.github.io/https-github.com-SoC-Infotech-test/third.html)
