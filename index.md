@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Try getting to another file
 
-[second](https://keyork54.github.io/https-github.com-SoC-Infotech-test/second.md)
+[second](https://keyork54.github.io/https-github.com-SoC-Infotech-test/second.html)
 
 ### Markdown
 
