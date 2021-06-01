@@ -15,3 +15,8 @@ The MarkDown files are are used to create *.html files with the same names in th
 
 [https://keyork54.github.io/https-github.com-SoC-Infotech-test](https://keyork54.github.io/https-github.com-SoC-Infotech-test)
 
+* ~ ~ ~
+* [Home](https://keyork54.github.io/https-github.com-SoC-Infotech-test/index.html)
+* [Second](https://keyork54.github.io/https-github.com-SoC-Infotech-test/second.html)
+* [Third](https://keyork54.github.io/https-github.com-SoC-Infotech-test/third.html)
+
