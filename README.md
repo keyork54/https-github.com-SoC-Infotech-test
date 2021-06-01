@@ -7,7 +7,7 @@ On the gh-pages branch there are five files:
 - index.md
 - second.md
 - third.md
-- and _yamml
+- and _config.yml
 
 The MarkDown files are are used to create *.html files with the same names in the github pages site show below.
 
